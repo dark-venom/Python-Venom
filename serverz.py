@@ -1,5 +1,5 @@
 ################################################
-# @Python-Venom                                 #
+# @Python-Venom                                #
 # All rights reserved: >>>>> Zulqarnain <<<<<  #
 # Please do not eidt or remove credits         #
 ################################################

@@ -1,3 +1,9 @@
+################################################
+# @Python-Venom                                 #
+# All rights reserved: >>>>> Zulqarnain <<<<<  #
+# Please do not eidt or remove credits         #
+################################################
+
 import os
 import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
